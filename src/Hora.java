@@ -45,5 +45,6 @@ public class Hora{
 		hora=ahora.getHours();
 		min=ahora.getMinutes();
 		seg=ahora.getSeconds();
+		int a=0;
 	}
 }
