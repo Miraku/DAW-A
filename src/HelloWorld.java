@@ -4,7 +4,6 @@ public class HelloWorld {
 		System.out.println("Hola mundo");
 		Hora ahora=new Hora(17,2);
 		ahora.sincronizar();
-		ahora.sincronizar();
 		System.out.println(ahora.getCurrentHora());
 	}
 }
